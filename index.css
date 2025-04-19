@@ -1,0 +1,20 @@
+button:hover{
+ background-color:thistle;
+ color:purple ;
+ cursor:scale(1.2) ;
+}
+body{
+    background-color:lavender;
+}
+body{
+    color: blueviolet;
+}
+body{
+    background:linear-gradient(to right, pink,lavender);
+}
+body{
+    background:radial-gradient(circle,pink,lavender);
+}
+
+
+
